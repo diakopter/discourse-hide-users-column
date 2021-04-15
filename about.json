@@ -1,7 +1,7 @@
 {
-  "name": "Hide Users Column",
+  "name": "Hide Views Column",
   "component": true,
-  "license_url": "https://github.com/discourse/discourse-hide-users-column/blob/main/LICENSE",
+  "license_url": "https://github.com/diakopter/discourse-hide-views-column/blob/main/LICENSE",
   "about_url": "https://meta.discourse.org/t/hide-users-column/143506", 
   "authors": "Dax",
   "theme_version": null,
