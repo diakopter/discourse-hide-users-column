@@ -1,3 +1,3 @@
-# hide-users-column
+# hide-views-column
 
-This Discourse theme component will delete the Users column from the Latest page
+This Discourse theme component will delete the Views column from the Latest page
